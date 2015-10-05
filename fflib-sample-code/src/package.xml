@@ -39,6 +39,8 @@
 		<members>ProductsSelectorTest</members>
 		<members>QuickOpportunityWizardController</members>
 		<members>UsersSelector</members>
+		<members>OpportunitiesServiceTestIntegration</members>
+		<members>OpportunityApplyDiscountControllerTestI</members>
 		<name>ApexClass</name>
 	</types>
 	<types>
